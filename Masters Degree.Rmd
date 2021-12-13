@@ -1,0 +1,8 @@
+---
+title: "Masters Degree"
+author: "Kaitlin Van Volkom"
+date: "12/13/2021"
+output: html_document
+---
+
+Kaitlin completed her Master's at the University of New Hampshire in 2018 under the direction of Dr. Larry Harris.

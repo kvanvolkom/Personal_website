@@ -1,0 +1,11 @@
+---
+title: "Ph.D."
+author: "Kaitlin Van Volkom"
+date: "12/13/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Kaitlin is currently working towards her Ph.D. at the University of New Hampshire under the direction of Dr. Jennifer Dijkstra. 

@@ -8,4 +8,8 @@ output: html_document
 
 navbar:
   title: Home Page
-  
+  left:
+  -text: Masters Degree
+   href:
+  -text: Ph.D.
+    href: 
